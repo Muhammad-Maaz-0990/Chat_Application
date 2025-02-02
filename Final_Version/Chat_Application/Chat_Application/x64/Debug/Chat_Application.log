@@ -1,0 +1,37 @@
+﻿  Main.cpp
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(326,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(388,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(415,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(439,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(462,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(466,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(495,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(513,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(517,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(544,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(562,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(566,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(593,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(611,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(616,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(633,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(648,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(666,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(679,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(691,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(700,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(707,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(714,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(829,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(855,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(873,3): warning C4834: discarding return value of function with [[nodiscard]] attribute
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(2721,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(3079,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(3093,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(3108,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(6985,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(7271,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(7275,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(8303,1): warning C4102: 'apply_theme': unreferenced label
+E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\Chat_Application\Main.cpp(8024,1): warning C4715: 'Main::login': not all control paths return a value
+  Chat_Application.vcxproj -> E:\C++\C++ Projects\3rd-Semester\Chat_Application\Final_Version\Chat_Application\x64\Debug\Chat_Application.exe

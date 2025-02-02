@@ -1,0 +1,5 @@
+﻿  server1.cpp
+E:\Chat_App\server1\server1.cpp(88,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Chat_App\server1\server1.cpp(112,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Chat_App\server1\server1.cpp(122,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  server1.vcxproj -> E:\Chat_App\server1\x64\Debug\server1.exe
